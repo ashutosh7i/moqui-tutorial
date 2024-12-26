@@ -1,0 +1,1 @@
+this is a custom component for moqui-framework, inspired from moqui docs.
